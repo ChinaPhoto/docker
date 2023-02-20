@@ -2,6 +2,7 @@
   <div class="hello">
     这不是傻子嘛
     <h1>还真是傻子</h1>
+    <p> 你是虫儿朱嘛</p>
   </div>
 </template>
 
