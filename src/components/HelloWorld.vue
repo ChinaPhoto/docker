@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     这不是傻子嘛
+    <h1>还真是傻子</h1>
   </div>
 </template>
 
