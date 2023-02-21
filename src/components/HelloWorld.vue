@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    新的测试网站
+    新的测试网站是的发放上分
   </div>
 </template>
 
