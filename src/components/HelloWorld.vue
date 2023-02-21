@@ -1,9 +1,6 @@
 <template>
   <div class="hello">
-    这不是傻子嘛
-    <h1>还真是傻子</h1>
-    <p> 你是虫儿朱嘛</p>
-    <div>就是大开杀戒</div>
+    新的测试网站
   </div>
 </template>
 
