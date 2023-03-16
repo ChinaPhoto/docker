@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    这是我新的测试地址啊啊啊啊啊
+    我的docker搭建成功了
   </div>
 </template>
 
