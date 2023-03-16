@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    新的测试网站是的发放上分
+    这是我新的测试地址啊啊啊啊
   </div>
 </template>
 
