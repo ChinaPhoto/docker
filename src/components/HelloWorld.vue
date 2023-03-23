@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    我的docker搭建成功了
+    我在米哈游面试了
   </div>
 </template>
 
